@@ -1,0 +1,2 @@
+Data analytics is the process of using data to identify patterns, draw conclusions, and make informed decisions. It's a multidisciplinary field that uses a range of techniques, tools, and technologies, including math, statistics, and computer science. 
+Data analytics can help organizations: Understand their consumers better, Optimize processes, Generate new business opportunities, and Predict sales and profit. 
